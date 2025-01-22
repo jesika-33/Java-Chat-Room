@@ -1,0 +1,1 @@
+This project demonstrates a multi-threaded chat room system that operates through command-line interfaces (CLIs). Each chat room CLI functions independently, allowing real-time communication between multiple users while providing additional features such as chat history and a search function.
